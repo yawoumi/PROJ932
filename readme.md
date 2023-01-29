@@ -47,7 +47,7 @@ $ => poetry install
 $ => poetry shell
 ```
 
-Run the project by using the following command :
+### Run the project by using the following command :
 
 ```
 $ => poetry run ./run.sh
