@@ -1,6 +1,4 @@
-# Map Reduce
-
-![](https://forthebadge.com/images/badges/made-with-java.svg) 
+# Federated Learning
 
 
 The goals of this project is to:
