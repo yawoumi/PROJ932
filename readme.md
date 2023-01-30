@@ -41,8 +41,9 @@ https://python-poetry.org/docs/#installing-with-the-official-installer
 ```
 
 ### Install requirements
+
 '''
-pip3 install -r requirements.
+pip3 install -r requirements
 '''
 
 ### Install dependencises
