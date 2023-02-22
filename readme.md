@@ -1,7 +1,7 @@
 # Federated Learning
 
 
-The goals of this project are to:
+The goals of this project are:
 - Create suitable unbalanced dataset, to simulate real world FL system and evaluate corresponding methods.
 - Build FL model with existing machine learning framework using basic model aggregation such as averaged weights update ($Fed\Avg$)
 - Investigate the effect of parameters: number of clients, rounds, epochs, learning rate, optimisation functions on the global model
